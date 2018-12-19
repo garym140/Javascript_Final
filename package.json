@@ -1,0 +1,23 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "socket maker",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mime": "^1.6.0",
+    "node": "^11.2.0",
+    "socket.io": "^2.2.0",
+    "twit": "^2.2.11",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "rollup-plugin-commonjs": "^9.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

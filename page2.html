@@ -1,0 +1,71 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>DURP</title>
+  <meta name="description" content="The Dummy Page">
+  <meta name="author" content="Parsons">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <canvas class="show" id="myCanvas"></canvas>
+  <div id="intro">
+    <text class="text">
+        <h1>Ethical Travel</h1>
+        <p>Ethical travel is both a state of mind and action that maintains respect,<p>awareness,and moral values towards the native culture / way of living.</p>
+    </text>
+  </div>
+
+  <div id="buttons_pg1" class="hidden">
+    <h1 id="toppg">Where do you want to go?!</h1>
+    <div class="box" id="box1" onclick="show_next()"><h3 data-type="park">Park</h3></div>
+    <div class="box" id="box2" onclick="show_next()"><h3 data-type="food">Food</h3></div>
+    <div class="box" id="box3" onclick="show_next()"><h3 data-type="arts">Arts</h3></div>
+  </div>
+
+  <div id="buttons_pg2" class="hidden">
+    <h1 id="toppg">How far are you willing to go?</h1>
+    <div class="box" id="box4" onclick="show_next()"><h3 data-far="1 Mile Away">1 Mile</h3></div>
+    <div class="box" id="box5" onclick="show_next()"><h3 data-far="2 Miles Away">1 - 3 Miles</h3></div>
+    <div class="box" id="box6" onclick="show_next()"><h3 data-far="3 Miles Away">3 + Miles</h3></div>
+  </div>
+
+  <div id="hiddenartbox" class="hidden">
+      <h3 data-type="food">Food</h3>
+  </div>
+
+  <div id="hiddendistancebox" class="hidden">
+      <h3 data-type="1 Mile">1 Mile</h3>
+  </div>
+
+  <div id="boxtriangle2" onclick="show_next()">
+    <!-- //use event listener in JS not (onclick) -->
+    <img src="triangle.png" id="triangle">
+  </div>
+
+  <div id="hiddenmoreinfo1" class="hidden" onclick="runoptions()">
+      <img id="hiddenimg1" src="images/giving.png"></img> <h1>HINT!</h1>
+      <p> This food place (location x) is known for its amazing french fries! The atmosphere is that of a café that you can spend hours doing work or reading. Beyond its comfortable facade lies a kitchen that creates some of the best flavors. In addition to these amazing qualities and vibes, location x is an ecofriendly establishment that focuses on sustainability within its neighborhood.</p>
+      <p> Enjoy your adventure! </p>
+  </div>
+
+  <div id="finalbuttons_pg" onclick="runoptions()">
+      <button class="hidden" id="submit_data"><h3>Push Me!</h3></button>
+  </div>
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="js/scripts.js"></script>
+  <!-- <script src="js/test.js" charset="utf-8"></script> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBTGlqn5ne3zZ17kFfwQiNEg-TKOLjn4lE"></script>
+</body>
+
+</html>
+
+<!-- <button type=submit id="submitweather">Press Me!</button> -->

@@ -1,0 +1,199 @@
+{
+  "data" : [
+    {
+        "what": "drinks",
+        "type": "Smoothie, Smoothies, Juice Bar",
+        "name": "Carnaval Smoothie and Juice Bar",
+        "locallyOwned": "locally owned",
+        "longitude": 40.811346,
+        "latitude": -73.950315,
+        "distance": "1 Mile Away"
+    },
+    {
+        "what": "food",
+        "type": "Sould Food",
+        "name": "BLVD Bistro",
+        "blackOwned": "black owned",
+        "locallyOwned": "locally owned",
+        "longitude": 40.806174,
+        "latitude": -73.947334,
+        "distance": "1 Mile Away",
+        "website": "http://boulevardbistrony.com/"
+    },
+    {
+        "what": "food",
+        "type": "Vegan Soul Food",
+        "name": "Seasoned Vegan",
+        "blackOwned": "black owned",
+        "locallyOwned": "locally owned",
+        "longitude": 40.800874,
+        "latitude": -73.952729,
+        "distance": "2 Miles Away",
+        "website": "https://www.seasonedvegan.com/"
+    },
+    {
+        "what": "food arts",
+        "type": "Food Drinks Performances",
+        "name": "MIST Harlem",
+        "blackOwned": "black owned",
+        "locallyOwned": "locally owned",
+        "distance": "2 Miles Away"
+    },
+    {
+        "what": "food drinks",
+        "type": "Senegalese Cuisine And American Soul Food",
+        "name": "Lenox Saphire Harlem",
+        "blackOwned": "black owned",
+        "locallyOwned": "locally owned",
+        "longitude": 40.809631,
+        "latitude": -73.944771,
+        "distance": "1 Mile Away",
+        "website": "https://www.lenoxsaphireharlem.com/"
+    },
+    {
+        "what": "food drinks",
+        "type": "Italian",
+        "name": "Settepani",
+        "blackOwned": "black owned",
+        "locallyOwned": "locally owned",
+        "longitude": 40.804643,
+        "latitude": -73.947589,
+        "distance": "1 Mile Away",
+        "website": "http://www.settepani.com/"
+    },
+    {
+        "what": "food",
+        "type": "Desserts",
+        "name": "Lee Lee’s Baked Goods",
+        "blackOwned": "black owned",
+        "locallyOwned": "locally owned",
+        "longitude": 40.805761,
+        "latitude": -73.953987,
+        "distance": "1 Mile Away",
+        "website": "https://www.leeleesrugelach.com/"
+    },
+    {
+        "what": "arts",
+        "type": "Museum Art History",
+        "name": "Schomburg Center for Research in Black Culture",
+        "blackOwned": "black owned",
+        "locallyOwned": "locally owned",
+        "longitude": 40.814879,
+        "latitude": -73.940883,
+        "distance": "1 Mile Away",
+        "website": "https://www.nypl.org/locations/schomburg"
+    },
+    {
+        "what": "arts food",
+        "type": "Books Cafe",
+        "name": "Sister's Uptown Bookstore",
+        "blackOwned": "black owned",
+        "locallyOwned": "locally owned",
+        "longitude": 40.832733,
+        "latitude": -73.94271,
+        "distance": "3 Miles Away",
+        "website": "http://www.sistersuptownbookstore.com/"
+    },
+    {
+        "what": "arts",
+        "type": "Books Toys",
+        "name": "Grandma's Place",
+        "blackOwned": "black owned",
+        "locallyOwned": "locally owned",
+        "longitude": 40.804544,
+        "latitude": -73.947468,
+        "distance": "3 Miles Away",
+        "website": "https://www.grandmasplaceinharlem.com/"
+    },
+    {
+        "what": "arts drinks",
+        "type": "Performance Arts Drinks Multupurpose",
+        "name": "Shrine",
+        "blackOwned": "black owned",
+        "locallyOwned": "locally owned",
+        "longitude": 40.814544,
+        "latitude": -73.944159,
+        "distance": "3 Miles Away",
+        "website": "https://shrinenyc.com/index.php"
+    },
+    {
+        "what": "food drinks",
+        "type": "French Bistro Drinks Cafe",
+        "name": "Yatenga",
+        "blackOwned": "black owned",
+        "locallyOwned": "locally owned",
+        "locallySourced": " locally sourced",
+        "longitude": 40.814475,
+        "latitude": -73.944058,
+        "distance": "3 Miles Away",
+        "website": "http://www.yatengabistro.com/index.php"
+    },
+    {
+        "what": "arts",
+        "type": "Clothing African Artifacts",
+        "name": "Calabar Imports ",
+        "blackOwned": "black owned",
+        "locallyOwned": "locally owned",
+        "locallySourced": " locally sourced",
+        "longitude": 40.815821,
+        "latitude": -73.946808,
+        "distance": "3 Miles Away",
+        "website": "https://www.calabar-imports.com/"
+    },
+    {
+        "what": "food drinks",
+        "type": "Ethiopian cafe",
+        "name": "Tsion Cafe",
+        "blackOwned": "black owned",
+        "locallyOwned": "locally owned",
+        "longitude": 40.826554,
+        "latitude": -73.943387,
+        "distance": "2 Miles Away",
+        "website": "https://tsioncafe.com/"
+    },
+    {
+        "what": "food",
+        "type": "Seafood Chicken",
+        "name": "A Taste of Seafood",
+        "locallySourced": "locally sourced",
+        "longitude": 40.816328,
+        "latitude": -73.946478,
+        "distance": "2 Miles Away"
+    },
+    {
+        "what": "food",
+        "type": "Food",
+        "name": "Belle Harlem",
+        "locallySourced": "locally sourced",
+        "longitude": 40.817644,
+        "latitude": -73.9417,
+        "distance": "2 Miles Away",
+        "website": "https://www.belleharlem.com/dinner-menu/"
+    },
+    {
+        "what": "food drinks",
+        "type": "Food Cafe",
+        "name": "The Edge Harlem",
+        "locallySourced": "locally sourced",
+        "distance": "2 Miles Away",
+        "website": "https://www.doordash.com/store/the-edge-harlem-new-york-27223/?utm_campaign=gpa"
+    },
+    {
+        "what": "food",
+        "type": "Food",
+        "name": "Harlem Grown",
+        "locallySourced": "locally sourced",
+        "longitude": "40.810143, -73.945877",
+        "latitude": -73.945877,
+        "distance": "2 Miles Away"
+    },
+    {
+        "what": "food drinks",
+        "name": "Clay",
+        "locallySourced": "locally sourced",
+        "longitude": "40.810060, -73.953876",
+        "latitude": -73.953876,
+        "distance": "2 Miles Away",
+        "website": "https://www.claynyc.com/"
+    }
+]}
